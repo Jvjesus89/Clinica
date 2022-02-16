@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/02/15 23:13:02.847,=C:\Users\jvjes\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:19:59.068,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitPrincipal.dfm=C:\Users\jvjes\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/15 23:19:59.068,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitPrincipal.pas=C:\Users\jvjes\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:20:02.064,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Clinica.dproj=C:\Users\jvjes\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/15 23:40:52.837,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:41:22.087,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadPaciente.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:41:22.087,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadPaciente.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.dfm</Transaction>
+    <Transaction>2022/02/15 23:41:43.866,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit2.pas</Transaction>
+    <Transaction>2022/02/15 23:42:31.899,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadPac.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit2.dfm</Transaction>
+    <Transaction>2022/02/15 23:42:31.899,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadPac.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit2.pas</Transaction>
+    <Transaction>2022/02/15 23:42:48.575,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/02/15 23:42:58.415,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamento.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit3.dfm</Transaction>
+    <Transaction>2022/02/15 23:42:58.415,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamento.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit3.pas</Transaction>
+    <Transaction>2022/02/15 23:48:15.587,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:48:25.404,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgen.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:48:25.404,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgen.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.dfm</Transaction>
+    <Transaction>2022/02/15 23:51:07.944,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamentos.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgen.pas</Transaction>
+    <Transaction>2022/02/15 23:51:07.944,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamentos.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgen.dfm</Transaction>
+    <Transaction>2022/02/15 23:55:51.736,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamentos.pas=</Transaction>
+    <Transaction>2022/02/15 23:56:37.823,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:56:58.564,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamentos.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/15 23:56:58.564,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitCadAgendamentos.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.dfm</Transaction>
+    <Transaction>2022/02/16 00:06:49.039,=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 00:12:42.215,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitDB.pas=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.pas</Transaction>
+    <Transaction>2022/02/16 00:12:42.215,C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\UnitDB.dfm=C:\Users\jvjes\OneDrive\Documents\Programas\Delphi\Clinica\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
